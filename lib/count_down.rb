@@ -5,6 +5,7 @@ count = 10
 
 while count = 1 && count != end_number do
   puts "Happy_New_Year"
+  count -=1
 end 
 
 while count < 11 && count != end_number do
