@@ -3,7 +3,7 @@
 end_number = 0 
 count = 10
 
-while count = 1 do
+while count = 1 && count != end_number do
   puts "Happy_New_Year"
 end 
 
